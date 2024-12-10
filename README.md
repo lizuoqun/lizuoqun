@@ -1,5 +1,7 @@
 ### Hi there 👋,I'm modify.
 
+![](https://img.shields.io/badge/java-8-brightgreen)![](https://img.shields.io/badge/vue-3-brightgreen)
+
 You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 - :house: foshan, China
@@ -18,11 +20,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 ----
 
 📈 top language stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizuoqun&layout=compact&theme=tokyonight" alt="modify" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizuoqun&layout=compact&theme=transparent" alt="modify" /></p>
 
 ----
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lizuoqun&theme=dracula)](https://github.com/lizuoqun/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lizuoqun&theme=transparent)](https://github.com/lizuoqun/github-readme-activity-graph)
 
 :full_moon: 江畔何人初见月，江月何年初照人。
 Who first sees the moon by the river, and when does the moon shine on people.
