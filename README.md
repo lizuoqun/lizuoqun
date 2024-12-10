@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm modify.
 
-![](https://img.shields.io/badge/java-8-brightgreen)![](https://img.shields.io/badge/vue-3-brightgreen)
+![](https://img.shields.io/badge/java-8-brightgreen)  ![](https://img.shields.io/badge/vue-3-brightgreen)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
@@ -24,7 +24,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 
 ----
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lizuoqun&theme=transparent)](https://github.com/lizuoqun/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lizuoqun&theme=vue)](https://github.com/lizuoqun/github-readme-activity-graph)
 
 :full_moon: 江畔何人初见月，江月何年初照人。
 Who first sees the moon by the river, and when does the moon shine on people.
