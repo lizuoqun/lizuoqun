@@ -5,9 +5,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 - :house: foshan, China
 - :dizzy: I’m currently working on something cool.
 - :seedling: I’m currently learning Everything I like.
-- :information_desk_personI: have 4 years of experience in Java and front-end development, with my main technical stack being microservices+Vue
+- :information_desk_person: I have 4 years of experience in Java and front-end development, with my main technical stack being microservices+Vue
 - :email: How to reach me: hailiao.li@qq.com
 - :notebook: Read more about my CSDN: [here](https://blog.csdn.net/qq_44973159)
+- :notebook: Read more about my vitePress Docs Blog: [My Project Docs](http://122.51.159.230/My-Project/)
 
 ![](https://github-readme-stats.vercel.app/api?username=lizuoqun&show_icons=true&theme=transparent)
 
