@@ -5,13 +5,13 @@
 You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 - :house: GuangZhou, China
-- iKun 10 year old fan,Only play abstract games.
+- 🐔 iKun 10 year old fan,Only play abstract games.
 - :dizzy: I’m currently working on something cool.
 - :seedling: I’m currently learning Everything I like.
 - :information_desk_person: I have 4 years of experience in Java and front-end development, with my main technical stack being microservices+Vue
 - :email: How to reach me: hailiao.li@qq.com
 - :notebook: Read more about my CSDN: [here](https://blog.csdn.net/qq_44973159)
-- :notebook: Read more about my vitePress Docs Blog: [My Project Docs](http://122.51.159.230/My-Project/)
+- 📖 Read more about my vitePress Docs Blog: [My Project Docs](http://122.51.159.230/My-Project/)
 
 ----
 
