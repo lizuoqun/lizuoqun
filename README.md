@@ -27,6 +27,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lizuoqun&theme=vue)](https://github.com/lizuoqun/github-readme-activity-graph)
 
-:full_moon: 江畔何人初见月，江月何年初照人。
+:full_moon: [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=23F7E7&multiline=true&width=451&lines=%E6%B1%9F%E7%95%94%E4%BD%95%E4%BA%BA%E5%88%9D%E8%A7%81%E6%9C%88%EF%BC%8C%E6%B1%9F%E6%9C%88%E4%BD%95%E5%B9%B4%E5%88%9D%E7%85%A7%E4%BA%BA%E3%80%82)](https://git.io/typing-svg)
 
 Who first sees the moon by the river, and when does the moon shine on people.
