@@ -15,19 +15,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 
 ----
 
-📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lizuoqun&show_icons=true&theme=transparent" alt="modify" /></p>
-
-----
-
-📈 top language stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizuoqun&layout=compact&theme=transparent" alt="modify" /></p>
-
-----
-
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+----
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lizuoqun/lizuoqun/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lizuoqun/lizuoqun/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lizuoqun/lizuoqun/output/github-contribution-grid-snake.svg">
+</picture>
 
 ----
 

@@ -1,1 +1,16 @@
 把文本转变成SVG格式的动态图。https://readme-typing-svg.demolab.com/demo/
+
+
+
+
+----
+
+📈 my github stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lizuoqun&show_icons=true&theme=transparent" alt="modify" /></p>
+
+----
+
+📈 top language stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizuoqun&layout=compact&theme=transparent" alt="modify" /></p>
+
+----
