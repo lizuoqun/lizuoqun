@@ -15,6 +15,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 
 ----
 
+![](https://github.com/lizuoqun/lizuoqun/blob/main/github-metrics.svg)
+
+----
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [初识Electron &amp; 进程通信](https://blog.csdn.net/qq_44973159/article/details/143575624)
