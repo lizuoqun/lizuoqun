@@ -48,7 +48,7 @@ kissing_heart:
 
 ----
 
-![](https://github.com/lizuoqun/lizuoqun/blob/main/profile-3d-contrib/profile-south-season.svg)
+![](https://github.com/lizuoqun/lizuoqun/blob/main/profile-3d-contrib/profile-gitblock.svg)
 
 ----
 
