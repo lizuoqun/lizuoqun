@@ -1,27 +1,23 @@
 ### Hello, everyone 👋,I'm modify.
 
-![](https://img.shields.io/badge/java-8-brightgreen)  ![](https://img.shields.io/badge/vue-3-brightgreen)
-
-> java框架
+> 后端
+> > 框架
+> > > ![](https://img.shields.io/badge/spring-blue)
+![](https://img.shields.io/badge/springBoot-blue)
+![](https://img.shields.io/badge/springCloud-blue)
+![](https://img.shields.io/badge/springSecurity-blue) 
 >
-> ![](https://img.shields.io/badge/spring-blue)
-> ![](https://img.shields.io/badge/springBoot-blue)
-> ![](https://img.shields.io/badge/springCloud-blue)
-
-> DB & 搜索引擎
+> > DB & 搜索引擎
+> > > ![](https://img.shields.io/badge/MySQL-blue)
+![](https://img.shields.io/badge/Oracle-blue)
+![](https://img.shields.io/badge/MongoDB-blue)
+![](https://img.shields.io/badge/Redis-blue)
+![](https://img.shields.io/badge/ElasticSearch-blue)
 >
-> ![](https://img.shields.io/badge/MySQL-blue)
-> ![](https://img.shields.io/badge/Oracle-blue)
-> ![](https://img.shields.io/badge/MongoDB-blue)
-> ![](https://img.shields.io/badge/Redis-blue)
-> ![](https://img.shields.io/badge/ElasticSearch-blue)
-
-
-> 中间件
->
-> ![](https://img.shields.io/badge/Nginx-blue)
-> ![](https://img.shields.io/badge/MQ-blue)
-> ![](https://img.shields.io/badge/Jenkins&Docker-blue)
+> > 中间件
+> > > ![](https://img.shields.io/badge/Nginx-blue)
+![](https://img.shields.io/badge/MQ-blue)
+![](https://img.shields.io/badge/Jenkins&Docker-blue)
 
 > 前端
 >
@@ -34,6 +30,11 @@
 ![](https://img.shields.io/badge/vite-blue)
 ![](https://img.shields.io/badge/webpack-blue)
 ![](https://img.shields.io/badge/tailwindcss-blue)
+>
+> > React
+> > > ![](https://img.shields.io/badge/react-blue)
+![](https://img.shields.io/badge/reactRouter-blue)
+![](https://img.shields.io/badge/redux-blue)
 >
 > > UI
 > > > ![](https://img.shields.io/badge/elementUI-blue)
