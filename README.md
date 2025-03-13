@@ -2,6 +2,64 @@
 
 ![](https://img.shields.io/badge/java-8-brightgreen)  ![](https://img.shields.io/badge/vue-3-brightgreen)
 
+> java框架
+>
+> ![](https://img.shields.io/badge/spring-blue)
+> ![](https://img.shields.io/badge/springBoot-blue)
+> ![](https://img.shields.io/badge/springCloud-blue)
+
+> DB & 搜索引擎
+>
+> ![](https://img.shields.io/badge/MySQL-blue)
+> ![](https://img.shields.io/badge/Oracle-blue)
+> ![](https://img.shields.io/badge/MongoDB-blue)
+> ![](https://img.shields.io/badge/Redis-blue)
+> ![](https://img.shields.io/badge/ElasticSearch-blue)
+
+
+> 中间件
+>
+> ![](https://img.shields.io/badge/Nginx-blue)
+> ![](https://img.shields.io/badge/MQ-blue)
+> ![](https://img.shields.io/badge/Jenkins&Docker-blue)
+
+> 前端
+>
+> > vue
+> > > ![](https://img.shields.io/badge/vue2-blue)
+![](https://img.shields.io/badge/vue3-blue)
+![](https://img.shields.io/badge/vueRouter-blue)
+![](https://img.shields.io/badge/vuex-blue)
+![](https://img.shields.io/badge/pinia-blue)
+![](https://img.shields.io/badge/vite-blue)
+![](https://img.shields.io/badge/webpack-blue)
+![](https://img.shields.io/badge/tailwindcss-blue)
+>
+> > UI
+> > > ![](https://img.shields.io/badge/elementUI-blue)
+![](https://img.shields.io/badge/elementPlus-blue)
+> ![](https://img.shields.io/badge/antDesign-blue)
+> ![](https://img.shields.io/badge/vxeTable-blue)
+>
+> > 移动端&桌面端&服务端
+> > > ![](https://img.shields.io/badge/小程序-blue)
+![](https://img.shields.io/badge/uniapp-blue)
+![](https://img.shields.io/badge/reactNative-blue)
+![](https://img.shields.io/badge/H5-blue)
+![](https://img.shields.io/badge/node-blue)
+![](https://img.shields.io/badge/electron-blue)
+>
+> > GIS
+> > > ![](https://img.shields.io/badge/OpenLayer-blue)
+![](https://img.shields.io/badge/MapBox-blue)
+![](https://img.shields.io/badge/Leaflet-blue)
+![](https://img.shields.io/badge/Cesium-blue)
+>
+> > Web3D
+> > > ![](https://img.shields.io/badge/WebGL-blue)
+![](https://img.shields.io/badge/Shader-blue)
+![](https://img.shields.io/badge/Three.js-blue)
+
 You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg) visitor,Thank You!:kissing_heart::
 kissing_heart:
 
@@ -29,11 +87,13 @@ kissing_heart:
 <div style="flex:1">
 
 <!-- BLOG-POST-LIST:START -->
+
 - [React-Native 项目初始化及安卓环境搭建](https://blog.csdn.net/qq_44973159/article/details/144499560)
 - [初识Electron &amp; 进程通信](https://blog.csdn.net/qq_44973159/article/details/143575624)
 - [qiankun 应用之间数据传递](https://blog.csdn.net/qq_44973159/article/details/142998712)
 - [微前端 Spa &amp; qiankun](https://blog.csdn.net/qq_44973159/article/details/142957482)
 - [Three.js 实战【4】—— 3D地图渲染](https://blog.csdn.net/qq_44973159/article/details/142254494)
+
 <!-- BLOG-POST-LIST:END -->
 </div>
 
