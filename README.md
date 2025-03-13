@@ -2,10 +2,12 @@
 
 > 后端
 > > 框架
-> > > ![](https://img.shields.io/badge/spring-blue)
-![](https://img.shields.io/badge/springBoot-blue)
-![](https://img.shields.io/badge/springCloud-blue)
-![](https://img.shields.io/badge/springSecurity-blue) 
+> > > ![](https://img.shields.io/badge/Spring-blue)
+![](https://img.shields.io/badge/Mybatis-blue)
+![](https://img.shields.io/badge/MybatisPlus-blue)
+![](https://img.shields.io/badge/SpringBoot-blue)
+![](https://img.shields.io/badge/SpringCloud-blue)
+![](https://img.shields.io/badge/SpringSecurity-blue)
 >
 > > DB & 搜索引擎
 > > > ![](https://img.shields.io/badge/MySQL-blue)
@@ -17,38 +19,41 @@
 > > 中间件
 > > > ![](https://img.shields.io/badge/Nginx-blue)
 ![](https://img.shields.io/badge/MQ-blue)
+![](https://img.shields.io/badge/MinIO-blue)
+![](https://img.shields.io/badge/xxlJob-blue)
 ![](https://img.shields.io/badge/Jenkins&Docker-blue)
 
 > 前端
 >
 > > vue
-> > > ![](https://img.shields.io/badge/vue2-blue)
-![](https://img.shields.io/badge/vue3-blue)
-![](https://img.shields.io/badge/vueRouter-blue)
-![](https://img.shields.io/badge/vuex-blue)
-![](https://img.shields.io/badge/pinia-blue)
-![](https://img.shields.io/badge/vite-blue)
-![](https://img.shields.io/badge/webpack-blue)
-![](https://img.shields.io/badge/tailwindcss-blue)
+> > > ![](https://img.shields.io/badge/Vue2-blue)
+![](https://img.shields.io/badge/Vue3-blue)
+![](https://img.shields.io/badge/VueRouter-blue)
+![](https://img.shields.io/badge/Vuex-blue)
+![](https://img.shields.io/badge/Pinia-blue)
+![](https://img.shields.io/badge/Vite-blue)
+![](https://img.shields.io/badge/Webpack-blue)
+![](https://img.shields.io/badge/Tailwindcss-blue)
 >
 > > React
-> > > ![](https://img.shields.io/badge/react-blue)
-![](https://img.shields.io/badge/reactRouter-blue)
-![](https://img.shields.io/badge/redux-blue)
+> > > ![](https://img.shields.io/badge/React-blue)
+![](https://img.shields.io/badge/ReactRouter-blue)
+![](https://img.shields.io/badge/Redux-blue)
 >
 > > UI
-> > > ![](https://img.shields.io/badge/elementUI-blue)
-![](https://img.shields.io/badge/elementPlus-blue)
-> ![](https://img.shields.io/badge/antDesign-blue)
-> ![](https://img.shields.io/badge/vxeTable-blue)
+> > > ![](https://img.shields.io/badge/ElementUI-blue)
+![](https://img.shields.io/badge/ElementPlus-blue)
+![](https://img.shields.io/badge/AntDesign-blue)
+![](https://img.shields.io/badge/VxeTable-blue)
 >
 > > 移动端&桌面端&服务端
 > > > ![](https://img.shields.io/badge/小程序-blue)
-![](https://img.shields.io/badge/uniapp-blue)
-![](https://img.shields.io/badge/reactNative-blue)
+![](https://img.shields.io/badge/Uniapp-blue)
+![](https://img.shields.io/badge/ReactNative-blue)
 ![](https://img.shields.io/badge/H5-blue)
-![](https://img.shields.io/badge/node-blue)
-![](https://img.shields.io/badge/electron-blue)
+![](https://img.shields.io/badge/Node-blue)
+![](https://img.shields.io/badge/Electron-blue)
+![](https://img.shields.io/badge/Nuxt-blue)
 >
 > > GIS
 > > > ![](https://img.shields.io/badge/OpenLayer-blue)
