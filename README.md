@@ -66,15 +66,14 @@
 ![](https://img.shields.io/badge/Shader-blue)
 ![](https://img.shields.io/badge/Three.js-blue)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg) visitor,Thank You!:kissing_heart::
-kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg) visitor,Thank You! :kissing_heart:
 
 - :house: GuangZhou, China
 - 🐔 iKun 10 year old fan,Only play abstract games.
 - :dizzy: I’m currently working on something cool.
 - :seedling: I’m currently learning Everything I like.
 - :information_desk_person: I have 4 years of experience in Java and front-end development.
-- :email: How to reach me: hailiao.li@qq.com
+- :email: How to reach me: 2645929971@qq.com
 - :notebook: Read more about my CSDN: [https://blog.csdn.net/qq_44973159](https://blog.csdn.net/qq_44973159)
 - 📖 Read more about my vitePress Docs Blog: [My Project Docs](http://122.51.159.230/My-Project/)
 - 📖 Read more about my vitePress Docs Blog By Github Page: [My Project Docs](https://lizuoqun.github.io/My-Project/)
