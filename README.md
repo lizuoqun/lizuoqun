@@ -92,11 +92,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 <div style="flex:1">
 
 <!-- BLOG-POST-LIST:START -->
+- [WebGL图形编程实战【2】：动态着色 × 纹理贴图技术揭秘](https://blog.csdn.net/qq_44973159/article/details/146414199)
 - [WebGL初体验【1】：绘制图形与变换技巧](https://blog.csdn.net/qq_44973159/article/details/146249029)
 - [React-Native 项目初始化及安卓环境搭建](https://blog.csdn.net/qq_44973159/article/details/144499560)
 - [初识Electron &amp; 进程通信](https://blog.csdn.net/qq_44973159/article/details/143575624)
 - [qiankun 应用之间数据传递](https://blog.csdn.net/qq_44973159/article/details/142998712)
-- [微前端 Spa &amp; qiankun](https://blog.csdn.net/qq_44973159/article/details/142957482)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
