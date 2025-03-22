@@ -84,6 +84,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 
 ----
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lizuoqun&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="Aiazt github stats" width="480" height="170" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizuoqun&layout=compact&theme=material-palenight" alt="Top Langs" height="166" />
+</a>
+
+----
+
 📕 &nbsp;**Latest Blog Posts**
 <div style="display: flex; align-items: center; justify-content: center">
 
@@ -92,11 +101,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 <div style="flex:1">
 
 <!-- BLOG-POST-LIST:START -->
+
 - [WebGL初体验：绘制图形与变换技巧](https://blog.csdn.net/qq_44973159/article/details/146249029)
 - [React-Native 项目初始化及安卓环境搭建](https://blog.csdn.net/qq_44973159/article/details/144499560)
 - [初识Electron &amp; 进程通信](https://blog.csdn.net/qq_44973159/article/details/143575624)
 - [qiankun 应用之间数据传递](https://blog.csdn.net/qq_44973159/article/details/142998712)
 - [微前端 Spa &amp; qiankun](https://blog.csdn.net/qq_44973159/article/details/142957482)
+
 <!-- BLOG-POST-LIST:END -->
 </div>
 
