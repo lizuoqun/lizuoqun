@@ -84,16 +84,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 
 ----
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lizuoqun&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="Aiazt github stats" width="480" height="170" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lizuoqun&hide=prs&count_private=true&show_icons=true" alt="Modify github stats" width="480" height="170" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizuoqun&layout=compact&theme=material-palenight" alt="Top Langs" height="166" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizuoqun&layout=compact" alt="Top Langs" height="166" />
 </a>
 
-----
 
-📕 &nbsp;**Latest Blog Posts**
-<div style="display: flex; align-items: center; justify-content: center">
+<!--📕 &nbsp;**Latest Blog Posts**-->
+<div style="display: none; align-items: center; justify-content: center">
 
 <img src="https://stats.justsong.cn/api/csdn?id=qq_44973159&lang=zh-CN"/>
 
