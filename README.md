@@ -34,11 +34,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 
 ----
 
-![](https://github.com/lizuoqun/lizuoqun/blob/main/profile-3d-contrib/profile-green-animate.svg)
+[//]: # (![]&#40;https://github.com/lizuoqun/lizuoqun/blob/main/profile-3d-contrib/profile-green-animate.svg&#41;)
 
-----
+[//]: # (----)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lizuoqun&theme=vue)](https://github.com/lizuoqun/github-readme-activity-graph)
+[//]: # ([![Ashutosh's github activity graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=lizuoqun&theme=vue&#41;]&#40;https://github.com/lizuoqun/github-readme-activity-graph&#41;)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600px&height=36&lines=江畔何人初见月，江月何年初照人。)](https://git.io/typing-svg)
 
