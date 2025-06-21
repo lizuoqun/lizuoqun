@@ -21,7 +21,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lizuoqun&hide=prs&count_private=true&show_icons=true" alt="Modify github stats" width="480" height="170" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizuoqun&layout=compact" alt="Top Langs" height="166" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizuoqun&layout=compact&hide=html,css,ejs,scss&langs_count=10" alt="Top Langs" height="166" />
 </a>
 
 ----
