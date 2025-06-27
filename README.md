@@ -41,13 +41,3 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 [//]: # ([![Ashutosh's github activity graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=lizuoqun&theme=vue&#41;]&#40;https://github.com/lizuoqun/github-readme-activity-graph&#41;)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600px&height=36&lines=江畔何人初见月，江月何年初照人。)](https://git.io/typing-svg)
-
-
-<div style="width:100%;height: 100px; display: flex; align-items: center; justify-content: center;">
-    <div style="color: #e6e6e6; font-family: '宋徽宗瘦金体'; font-weight: 600; font-size: 24px; text-shadow: 1px -1px #fff, -1px 1px #999, -5px 5px 5px #808080;">
-        Who first sees the moon by the river, and when does the moon shine on people.
-    </div>
-</div>
-
-
-<div style="color: #fff; font-family: STLiti; font-size: 24px;letter-spacing: 1px;display: flex; transform-style: preserve-3d;">江畔何人初见月，江月何年初照人。</div>
