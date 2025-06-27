@@ -43,3 +43,28 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600px&height=36&lines=江畔何人初见月，江月何年初照人。)](https://git.io/typing-svg)
 
 :full_moon: Who first sees the moon by the river, and when does the moon shine on people.
+
+
+<div class="box-2">
+    <div class="text-2">
+        Who first sees the moon by the river, and when does the moon shine on people.
+    </div>
+</div>
+
+<style>
+  .box-2 {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .text-2 {
+    color: #e6e6e6;
+    font-family: '宋徽宗瘦金体';
+    font-weight: 600;
+    font-size: 24px;
+    text-shadow: 1px -1px #fff, -1px 1px #999, -5px 5px 5px #808080;
+  }
+</style>
