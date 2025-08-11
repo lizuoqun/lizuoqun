@@ -2,8 +2,8 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    # 每月的单数日期的18:00执行一次。
-    - cron: "0 18 1-31/2 * *"
+    # 每天18:00执行一次
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
