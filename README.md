@@ -1,6 +1,6 @@
 ### Hello, everyone 👋,I'm modify.
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg) visitor,Thank You! :kissing_heart:
+[//]: # (You are my ![Visitor Count]&#40;https://profile-counter.glitch.me/lizuoqun/count.svg&#41; visitor,Thank You! :kissing_heart:)
 
 - :house: GuangZhou, China
 - 🐔 iKun 10 year old fan,Only play abstract games.
@@ -10,6 +10,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lizuoqun/count.svg
 - :email: How to reach me: 2645929971@qq.com
 - :notebook: Read more about my CSDN: [https://blog.csdn.net/qq_44973159](https://blog.csdn.net/qq_44973159)
 - 📖 Read more about my vitePress Docs Blog By Github Page: [My Project Docs](https://lizuoqun.github.io/My-Project/)
+- 📖 Read more about my vitePress Docs Blog By Vercel Page: [My Project Docs](https://lizuoqun-github-io.vercel.app/My-Project/)
 
 ----
 
